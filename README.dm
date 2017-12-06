@@ -1,1 +1,1 @@
-new contents
+hello
